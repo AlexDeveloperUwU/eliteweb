@@ -11410,11 +11410,13 @@ header.masthead {
   padding-bottom: 6rem;
   text-align: center;
   color: #fff;
-  background-image: url("../img/peluqueria5.jpg");
+  background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);
+  
+  /*background-image: url("../img/peluqueria1.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  background-size: cover;
+  background-size: cover;*/
 }
 header.masthead .masthead-subheading {
   font-size: 1.5rem;
