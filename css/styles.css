@@ -11412,7 +11412,7 @@ header.masthead {
   color: #fff;
   /*background: linear-gradient(90deg, #00C9FF 0%, #92FE9D 100%);*/
   
-  background-image: url("../img/1.jpg");
+  background-image: url("https://alexdevuwu.mo.cloudinary.net/img/1.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
